@@ -189,10 +189,10 @@ Recommended screenshots:
 ## 11. Deployment
 
 **GitHub Repository:**  
-YOUR_GITHUB_REPOSITORY_URL
+https://github.com/madhuriatluri-29/Training-Task-Dashboard
 
 **Live Website:**  
-YOUR_GITHUB_PAGES_URL
+https://madhuriatluri-29.github.io/Training-Task-Dashboard/
 
 *Replace these placeholders after uploading and deploying the project.*
 
