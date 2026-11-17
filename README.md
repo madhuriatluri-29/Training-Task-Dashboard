@@ -109,7 +109,7 @@ Training-Task-Dashboard/
 Clone the repository using:
 
 ```bash
-git clone https://github.com/madhuriatluri-29/Training-Task-Dashboard
+https://github.com/madhuriatluri-29/Training-Task-Dashboard
 ```
 
 Alternatively, download the project files from GitHub.
@@ -175,7 +175,17 @@ The following functional tests were performed:
 
 ## 10. Screenshots
 
+### Dashboard Overview
+![Dashboard](dashboard.png)
 
+### Create Task Form
+![Create Task](create%20task.png)
+
+### All Tasks
+![All Tasks](all%20tasks.png)
+
+### Mobile View
+![Mobile View](mobile%20view.png)
 
 ## 11. Deployment
 
