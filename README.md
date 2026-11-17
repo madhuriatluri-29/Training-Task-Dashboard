@@ -175,16 +175,7 @@ The following functional tests were performed:
 
 ## 10. Screenshots
 
-Add screenshots of your completed application in this section.
 
-Recommended screenshots:
-
-1. Dashboard overview.
-2. Create Task form.
-3. All Tasks page.
-4. Edit Task form.
-5. Search and filter functionality.
-6. Mobile responsive layout.
 
 ## 11. Deployment
 
@@ -194,7 +185,6 @@ https://github.com/madhuriatluri-29/Training-Task-Dashboard
 **Live Website:**  
 https://madhuriatluri-29.github.io/Training-Task-Dashboard/
 
-*Replace these placeholders after uploading and deploying the project.*
 
 ## 12. AI Assistance Disclosure
 
